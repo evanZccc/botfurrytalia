@@ -1,0 +1,29 @@
+{
+    "token": "",
+    "language": "en",
+    "prefix": "!",
+    "mongodbUri": "mongodb+srv://EvanZ:EvanZccc@cluster0.kx6iu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
+    "excessCommands": {
+        "utility": true,
+        "other": true,
+        "hentai": true,
+        "troll": true,
+        "economy" : false,
+        "application" : true,
+        "birthday" : false,
+        "gaming" : false,
+        "customcommands" : false,
+        "report" : false
+    },
+    "categories": {
+        "anime": true,
+        "basic": true,
+        "utility": true,
+        "moderation": true,
+        "fun": true,
+        "setups": true
+    },
+    "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
+    "spotifyClientSecret": "199a619d22dd4e55a4a2c1a7a3d70e63"
+}
